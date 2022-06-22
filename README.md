@@ -3,6 +3,7 @@ El Club de Yacht Puerto Black necesita llevar el registro de los Yates que se am
 su fondeadero. Se considera “AMARRA” a la superficie de espejo de agua destinado a
 mantener fondeada una embarcación deportiva. El Club cuenta con un máximo de 70
 amarras y se permite fondear yates de propulsión a vela y a motor.
+
 De los yates a Motor se registra:
 1. Nombre: AZ1
 2. Dueño: Adrés Borgeat
@@ -16,6 +17,7 @@ De los yates a Motor se registra:
 10. Potencia: 9000 kw
 11. Velocidad: 23 nudos
 12. Autonomía: 6500 mn
+
 De los Yates de Vela se registra:
 1. Nombre: XXR
 2. Dueño: Sebastián Pardo
@@ -27,6 +29,8 @@ De los Yates de Vela se registra:
 8. Altura mástil: 21.5 m
 9. Superficie Vélica Mayor: 85 m2
 10. Superficie total (vela mayor y foque): 133 m2
+
+
 Implementar las clases necesarias para dar solución a los siguientes requerimientos:
 1. Crear el Fondeadero recibiendo como parámetro la cantidad máxima de amarras.
 2. amararYate(Yate yate): amarra el yate. Deberá lanzar una Excepción si no existe
